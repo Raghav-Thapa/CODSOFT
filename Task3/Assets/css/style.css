@@ -1,0 +1,86 @@
+body {
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar {
+    opacity: 0.91;
+}
+
+.caro img {
+    height: 750px;
+    width: fit-content;
+}
+
+.nav-item {
+    font-size: 22px;
+    margin-right: 20pt;
+    font-weight: 700;
+}
+
+.navbar-nav .nav-link:active {
+    background-color: grey;
+}
+
+.about .aboutme {
+    font-size: 35pt;
+    margin-top: 10pt;
+    font-family: cursive;
+}
+
+.about {
+    text-align: center;
+}
+
+.about .row {
+    padding-top: 20pt;
+    margin-top: 30pt;
+    font-weight: bold;
+    font-size: large;
+    text-align: justify;
+}
+
+.container .about hr {
+    border-width: thick;
+}
+
+.skills {
+    text-align: center;
+    margin-top: 70pt;
+}
+
+.skills .myskills {
+    font-size: 35pt;
+    margin-top: 10pt;
+    font-family: cursive;
+}
+
+.skills .row {
+    padding-top: 20pt;
+    margin-top: 30pt;
+    align-items: center;
+    /* font-weight: bold;
+    font-size: large; */
+}
+
+.comment h4 {
+    margin-top: 30pt;
+    color: aliceblue;
+    text-align: center;
+}
+
+.contact h2 {
+    text-align: center;
+    margin-top: 20pt;
+}
+
+.form-group {
+    color: whitesmoke;
+    margin-top: 5pt;
+    font-weight: bold;
+}
